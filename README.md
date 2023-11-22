@@ -3,7 +3,7 @@
 I'm a Polish Computer Science student based in Kraków.
 
 I'm also a game developer. You can check out my work below.
-https://kardamoon.itch.io/
+https://kardam00n.itch.io/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardam00n&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
