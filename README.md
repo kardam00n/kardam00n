@@ -9,7 +9,7 @@ Currently working on my personal homelab.
 - **[BeaconBlink 📶](https://github.com/BeaconBlink)** - System of mobile devices capable of indoor localization 
 - **[WI are the Champions 💸](https://github.com/kardam00n/hackathIOn)** - Mobile game app for AGH Open Days, winner of HackathIOn
 - **[Sensorium 🎨](https://github.com/kardam00n/Sensorium)** - Webpage for "Sensorium", project combining art and technology
-- **[Library Page 📚](https://github.com/kardam00n/Library-Page-Project)** - Web application prorotype for AGH Library System
+- **[AGH Library System 📚](https://github.com/kardam00n/Library-Page-Project)** - Web application prorotype for AGH Library System
 - **[Game Of Silicon 🕹️](https://github.com/kardam00n/Game_of_Silicon)** - Conway's Game of Life implementation for FPGA
 - **[Quiz Manager 📜](https://github.com/kardam00n/quiz-manager)** - Application designed for teachers to manage, analyze and award student's quiz entries
 
